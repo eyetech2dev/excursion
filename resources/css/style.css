@@ -24,3 +24,18 @@ h2 {
     font-size: 21px;
     color: gray;
 }
+
+footer {
+    text-align: right;
+    color: gray;
+    font-size: 21px;
+    text-decoration-color: aquamarine;
+}
+
+#camp {
+    margin: auto;
+}
+#phone {
+    margin: auto;
+    vertical-align: middle;
+}
